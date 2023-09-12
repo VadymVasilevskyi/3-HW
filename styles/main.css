@@ -1,0 +1,36 @@
+img {
+	width: 120px;
+	position: relative;
+	float: left;
+}
+p {
+	position: relative;
+	margin-left: 5px;
+}
+.header {
+	font-family: Arial;
+	font-size: 18px;
+	font-weight: 600;
+}
+.content1 {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: 400;
+	
+}
+.content2 {
+	position: relative;
+	margin-top: 40px;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: 400;
+}
+.author {
+	position: relative;
+	margin-top: 40px;
+	margin-left: 200px;
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: italic;
+}
